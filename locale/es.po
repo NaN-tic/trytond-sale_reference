@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:stock.shipment.out,customer_reference:"
+msgid "Customer Reference"
+msgstr "Referencia de cliente"
+
+msgctxt "field:stock.shipment.out.return,customer_reference:"
+msgid "Customer Reference"
+msgstr "Referencia de cliente"
